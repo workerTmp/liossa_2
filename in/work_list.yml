@@ -1,12 +1,12 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- rowpowerdns*fuzz_target_dnsdistcache
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_moadnsparser
 '2':
 - rowpowerdns*fuzz_target_proxyprotocol
 - rowpowerdns*fuzz_target_zoneparsertng
+- rowpowerdns*fuzz_target_dnsdistcache
 '3': 'null'
 '4': 'null'
 '5': 'null'
