@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- rowpowerdns*fuzz_target_packetcache
 '0': 'null'
 '1':
-- rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_moadnsparser
 - rowpowerdns*fuzz_target_zoneparsertng
 - rowpowerdns*fuzz_target_proxyprotocol
