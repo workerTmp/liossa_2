@@ -2,9 +2,9 @@
 '0': 'null'
 '1': 'null'
 '2':
-- rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_dnsdistcache
-'3': 'null'
+'3':
+- rowpowerdns*fuzz_target_packetcache
 '4': 'null'
 '5':
 - rowpowerdns*fuzz_target_zoneparsertng
