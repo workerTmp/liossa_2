@@ -1,4 +1,5 @@
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_moadnsparser.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/rowpowerdns/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_packetcache.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_zoneparsertng.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_dnsdistcache.svg)](https://github.com/)
