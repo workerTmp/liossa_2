@@ -3,4 +3,5 @@
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_dnsdistcache.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_moadnsparser.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_zoneparsertng.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/rowpowerdns/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowpowerdns/fuzz_target_proxyprotocol.svg)](https://github.com/)
