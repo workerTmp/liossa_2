@@ -1,10 +1,10 @@
 '-1':
 - rowpowerdns*llvm-symbolizer
 - rowpowerdns*fuzz_target_moadnsparser
+- rowpowerdns*fuzz_target_dnsdistcache
 '0': 'null'
 '1': 'null'
-'2':
-- rowpowerdns*fuzz_target_dnsdistcache
+'2': 'null'
 '3':
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_proxyprotocol
