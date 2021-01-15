@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- rowpowerdns*llvm-symbolizer
 '0': 'null'
 '1':
-- rowpowerdns*llvm-symbolizer
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_zoneparsertng
 '2':
