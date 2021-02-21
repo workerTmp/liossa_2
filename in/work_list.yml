@@ -3,11 +3,11 @@
 - rowpowerdns*fuzz_target_zoneparsertng
 '0': 'null'
 '1':
-- rowpowerdns*fuzz_target_moadnsparser
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_dnsdistcache
 '2':
 - rowpowerdns*fuzz_target_proxyprotocol
+- rowpowerdns*fuzz_target_moadnsparser
 '3': 'null'
 '4': 'null'
 '5': 'null'
