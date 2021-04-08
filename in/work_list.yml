@@ -6,10 +6,10 @@
 - rowpowerdns*fuzz_target_dnsdistcache
 - rowpowerdns*fuzz_target_moadnsparser
 - rowpowerdns*fuzz_target_zoneparsertng
+- rowpowerdns*fuzz_target_packetcache
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- rowpowerdns*fuzz_target_packetcache
+'5': 'null'
 '6':
 - rowpowerdns
