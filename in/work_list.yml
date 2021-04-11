@@ -1,9 +1,9 @@
 '-1':
 - rowpowerdns*llvm-symbolizer
+- rowpowerdns*fuzz_target_zoneparsertng
 '0': 'null'
 '1': 'null'
 '2':
-- rowpowerdns*fuzz_target_zoneparsertng
 - rowpowerdns*fuzz_target_packetcache
 '3':
 - rowpowerdns*fuzz_target_proxyprotocol
