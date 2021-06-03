@@ -1,7 +1,6 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- rowpowerdns*fuzz_target_dnslabeltext_parseRFC1035CharString
 - rowpowerdns*llvm-symbolizer
 '2':
 - rowpowerdns*fuzz_target_moadnsparser
@@ -9,6 +8,7 @@
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_proxyprotocol
 - rowpowerdns*fuzz_target_dnsdistcache
+- rowpowerdns*fuzz_target_dnslabeltext_parseRFC1035CharString
 '3': 'null'
 '4': 'null'
 '5': 'null'
