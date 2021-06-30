@@ -1,8 +1,8 @@
-docs/rowpowerdns/fuzz_target_packetcache.svg
-docs/rowpowerdns/llvm-symbolizer.svg
-docs/rowpowerdns/fuzz_target_dnsdistcache.svg
+docs/rowpowerdns/notFind.svg
+docs/rowpowerdns/fuzz_target_zoneparsertng.svg
 docs/rowpowerdns/fuzz_target_moadnsparser.svg
+docs/rowpowerdns/fuzz_target_packetcache.svg
+docs/rowpowerdns/fuzz_target_dnsdistcache.svg
+docs/rowpowerdns/llvm-symbolizer.svg
 docs/rowpowerdns/fuzz_target_proxyprotocol.svg
 docs/rowpowerdns/fuzz_target_dnslabeltext_parseRFC1035CharString.svg
-docs/rowpowerdns/fuzz_target_zoneparsertng.svg
-docs/rowpowerdns/notFind.svg
