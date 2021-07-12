@@ -3,13 +3,13 @@
 '0': 'null'
 '1': 'null'
 '2':
-- rowpowerdns*fuzz_target_dnslabeltext_parseRFC1035CharString
 - rowpowerdns*fuzz_target_proxyprotocol
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_dnsdistcache
 - rowpowerdns*fuzz_target_zoneparsertng
 '3':
 - rowpowerdns*fuzz_target_moadnsparser
+- rowpowerdns*fuzz_target_dnslabeltext_parseRFC1035CharString
 '4': 'null'
 '5': 'null'
 '6':
