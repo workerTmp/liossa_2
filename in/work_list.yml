@@ -4,11 +4,11 @@
 '1':
 - rowpowerdns*fuzz_target_moadnsparser
 - rowpowerdns*fuzz_target_dnslabeltext_parseRFC1035CharString
+- rowpowerdns*fuzz_target_proxyprotocol
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- rowpowerdns*fuzz_target_proxyprotocol
 - rowpowerdns*fuzz_target_packetcache
 - rowpowerdns*fuzz_target_dnsdistcache
 - rowpowerdns*fuzz_target_zoneparsertng
